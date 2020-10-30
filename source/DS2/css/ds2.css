@@ -1,0 +1,36 @@
+#Footer
+{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: white;
+    background-color: rgb(32, 36, 48);
+}
+#rowsd
+{
+   text-align: justify;
+}
+#header
+{
+    background-color: rgb(32, 36, 48);
+    color: white;
+}
+
+#FooterSecondColor
+{
+    color: rgb(183, 230, 14);
+}
+a{
+    color: rgb(183, 230, 14);
+}
+#nav
+{
+    display: block;
+}
+li {
+    display: inline;
+   
+  }
+  #container
+  {
+      text-align: justify;
+  }
