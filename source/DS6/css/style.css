@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Syne+Mono&display=swap");
+* {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Syne Mono", monospace;
+  padding: 0%;
+  margin: 0%;
+}
+header {
+  padding-bottom: 25px;
+  padding-top: 25px;
+  text-align: center;
+}
+header div legend
+{
+    font-size: 35px;
+}
+.row div
+{
+    text-align: center;
+    padding: 30px;
+}
+
+table{
+  border: black solid;
+}
+tr
+{
+  
+  border: black solid;
+}
+td{
+  border: solid black;
+  padding: 5px;
+}
