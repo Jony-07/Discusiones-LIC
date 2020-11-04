@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Open+Sans:wght@700&display=swap');
+*
+{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Itim', cursive;
+font-family: 'Open Sans', sans-serif;
+}
+header
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+header legend {
+    font-size: 30px;
+}
+.header legend:hover
+{
+    color: rgb(40, 28, 172);
+}
+#content{
+    text-align: center;
+}
+.header div:hover
+{
+    background: blanchedalmond;
+}
