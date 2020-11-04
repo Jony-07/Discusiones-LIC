@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+header
+{
+    text-align: center;
+}
+header legend{
+    font-size: 40px;
+}
+header p {
+    color: blue;
+    font-weight: bold;
+}
+section{
+  padding-top: 20px;
+  padding-bottom: 20px;
+    text-align: justify;
+}
+aside{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+}
+.row section:hover{
+    background: cornsilk;
+}
+.row aside:hover{
+    background: darkgray;
+}
+.header header:hover{
+    background: whitesmoke;
+}
+.header legend:hover{
+    font-weight: bold;
+}
+.row legend:hover{
+    font-weight: bold;
+}
